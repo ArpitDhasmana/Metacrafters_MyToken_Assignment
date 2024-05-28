@@ -19,9 +19,9 @@ contract MyToken {
     }
 
     // burn function
-     function burn(address _add,uint _val) public{
-        totalSupply-=_val;
+     function burn(address _add,uint _val) public{ 
         if(balance[_add]>=_val){
+        totalSupply-=_val;
         balance[_add]-=_val;
         }
     }
