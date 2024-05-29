@@ -2,7 +2,7 @@
 pragma solidity 0.8.18;
 
 
-contract MyToken {
+contract Mytoken {
 
     // public variables here
     string public TK_Name="Anna";
