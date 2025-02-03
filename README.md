@@ -2,7 +2,7 @@
 
 Minting and Burning Tokens.
 
-## Description
+## Description 
 
 This project is to demonstrate the simple use of solidity , a programming language genrally used in web3 development(Used for developing smart contracts on the Ethereum Blockchain). The contract has two simple fucntion , a mint function to create new tokens and a burn function to destroy the existing tokens , it is a simple project based on solidity which will help us to climb up the ladder in the learning game of Blockchain development.
 
